@@ -1,4 +1,4 @@
-# STUDENT CAREER PREDICTION MODEL (CAREER FORETELL)
+# Career Foretell
 This project is aimed at helping students to choose a suitable career by taking into consideration of student's academic performances, interests and some other important aspects of the student's life. This system is based on the working of machine learning using python and presented in the form of a full stack website.
 
 
